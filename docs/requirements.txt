@@ -186,7 +186,7 @@ torchvision==0.13.0
     # via
     #   -r requirements.in
     #   cnstd
-tqdm==4.64.0
+tqdm==4.66.3
     # via
     #   -r requirements.in
     #   cnstd
