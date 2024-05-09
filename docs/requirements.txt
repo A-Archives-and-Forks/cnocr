@@ -110,7 +110,7 @@ packaging==21.3
     #   onnxruntime
     #   pytorch-lightning
     #   torchmetrics
-pillow==9.2.0
+pillow==10.3.0
     # via
     #   -r requirements.in
     #   cnstd
